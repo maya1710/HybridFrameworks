@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12646" started-at="2023-02-19T16:30:02 CET" finished-at="2023-02-19T16:30:14 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12646" started-at="2023-02-19T16:30:02 CET" finished-at="2023-02-19T16:30:14 CET">
+      <class name="testcases.LoginTest">
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:testcases.LoginTest@661972b0]" name="setupBrowser" is-config="true" duration-ms="5942" started-at="2023-02-19T16:30:03 CET" finished-at="2023-02-19T16:30:09 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="loginToApplication(java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginTest@661972b0]" name="loginToApplication" duration-ms="447" started-at="2023-02-19T16:30:09 CET" data-provider="loginDetails" finished-at="2023-02-19T16:30:09 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ineuron@ineuron.ai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ineuron]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.LoginTest@661972b0]" name="closeBrowser" is-config="true" duration-ms="946" started-at="2023-02-19T16:30:09 CET" finished-at="2023-02-19T16:30:10 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setupBrowser()[pri:0, instance:testcases.LoginTest@661972b0]" name="setupBrowser" is-config="true" duration-ms="2499" started-at="2023-02-19T16:30:10 CET" finished-at="2023-02-19T16:30:13 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="loginToApplication(java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginTest@661972b0]" name="loginToApplication" duration-ms="401" started-at="2023-02-19T16:30:13 CET" data-provider="loginDetails" finished-at="2023-02-19T16:30:13 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@admin.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testcases.LoginTest@661972b0]" name="closeBrowser" is-config="true" duration-ms="748" started-at="2023-02-19T16:30:14 CET" finished-at="2023-02-19T16:30:14 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+TestClass
+   BaseClass
+      @BeforeClass
+          startBrowser
+              configfile
+                 TestMethod
+                    DataProvider
+                       excel
+                          2D Object
+                             passing parameter
+                                BaseClass
+                                   @AfterClass

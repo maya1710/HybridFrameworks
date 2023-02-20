@@ -1,0 +1,19 @@
+via eclipse
+
+   via cli-Command Line Interface
+     maven
+        MAC
+           2ways
+        Windows
+        
+   Window
+     Open https://dlcdn.apache.org/maven/maven-3/3.9.0/binaries/apache-maven-3.9.0-bin.zip
+     
+     Unzip
+     HomeDirectory
+        Bin
+     User Variable MAVEN_HOME -Give the path till home
+     System Variable
+       please dont delete just edit
+         Give the path till bin folder 
+               
